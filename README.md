@@ -1,1 +1,1 @@
-# Jake.py
+Pointless Python
